@@ -17,3 +17,32 @@ To build SmartCopy, you need the Rust toolchain and certain X11 development libr
 **1. Install Rust:**
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf [https://sh.rustup.rs](https://sh.rustup.rs) | sh
+2. Install Linux Dependencies:
+
+
+
+sudo apt update && sudo apt install -y libx11-dev libxcb-composite0-dev
+Installation & Usage
+
+
+# Clone the repository
+git clone [https://github.com/harhog/smartcopy.git](https://github.com/harhog/smartcopy.git)
+
+# Enter the directory
+cd smartcopy
+
+# Build the release version
+cargo build --release
+
+# Run the program
+./target/release/smartcopy
+❤️ Support & Commercial Use
+SmartCopy is open-source and free for personal use.
+
+If you are using this tool in a commercial or business environment, I kindly ask you to support the project. Your contributions help me maintain the code and add new features.
+
+* [**Sponsor me on GitHub**](https://github.com/sponsors/harhog)
+
+* [**Buy Me A Coffee**](https://buymeacoffee.com/haraldhogli)
+
+* [**Donate via PayPal**](https://paypal.me/haraldhog)
