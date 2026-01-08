@@ -51,6 +51,19 @@ If you are using this tool in a **commercial or business environment**, I kindly
 * [Buy Me A Coffee](https://buymeacoffee.com/haraldhogli)
 * [Donate via PayPal](https://paypal.me/haraldhog)
 
+<p align="center">
+  <a href="https://github.com/sponsors/harhog">
+    <img alt="Sponsor on GitHub" src="https://img.shields.io/badge/GitHub%20Sponsors-Sponsor-ea4aaa?style=for-the-badge&logo=githubsponsors&logoColor=white">
+  </a>
+  <a href="https://buymeacoffee.com/haraldhogli">
+    <img alt="Buy Me A Coffee" src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-Support-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=000">
+  </a>
+  <a href="https://paypal.me/haraldhog">
+    <img alt="Donate via PayPal" src="https://img.shields.io/badge/PayPal-Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white">
+  </a>
+</p>
+
+
 📝 License
 This project is licensed under the MIT License. See the LICENSE file for the full text.
 
